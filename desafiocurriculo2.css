@@ -1,0 +1,81 @@
+h1 {
+    margin: 10px 200px 5px 200px;
+    background-color: rgb(181, 173, 231);
+    text-align: center;
+    color: rgb(55, 3, 177);
+}
+
+h2 {
+    color: rgb(55, 3, 177);
+    background-color: #ccc;
+    border-bottom: 3px solid rgb(181, 173, 231);
+    margin: 25px 200px 0 200px ;
+    height: 40px;
+    padding-left: 5px;
+    padding-top: 8px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+
+}
+
+.pnormal {
+    margin: 5px 0 10px 200px;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.p1 {
+    margin-top: 10px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: small;
+    margin-bottom: 35px;
+}
+
+.p2 {
+    margin: 10px 100px 35px 200px;
+    font-family: sans-serif;
+    font-size: small;
+}
+
+.p3 {
+    font-weight: bolder;
+    margin: 10px 0 10px 200px
+}
+
+.strong {
+    color: rgb(55, 3, 177);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+
+ul li {
+    margin: 10px 0 10px 180px;
+    list-style-position: outside; 
+}
+
+.menu {
+    list-style-type: none;
+    text-align: right;
+    margin-right: 200px;
+    border: 10px;
+}
+
+.menu li {
+    display: inline-block;
+    height: 16px;
+    margin: 10px;
+    
+}
+
+.menu a {
+    background-color: #ccc;
+    padding: 16px;
+    display: block;
+}
+
+.menu a:hover {
+    background-color: grey;
+    color: white;
+}
